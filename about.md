@@ -14,16 +14,6 @@ Hi! My name is Priscilla, and I am a rising Mathematical, Computational and Stat
  - Before switching to waterpolo, I was a competitive swimmer (sprinter) for ~10 years. 
 
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-
 
 \\![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
 
