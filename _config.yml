@@ -28,7 +28,7 @@ navigation:
 external:                    # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:priscilla.ong@u.yale-nus.edu.sg"}
  - {title: Github, icon: github, url: "https://github.com/prisong97"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+ - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/priscillaong-97"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
