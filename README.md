@@ -4,9 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## A Quick Introduction!
 
-Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Hi! My name is Priscilla, and I am a rising Mathematical, Computational and Statistical Sciences senior at Yale-NUS College. Very soon, I will be embarking on my Capstone, a year long research project that culminates in a final report. This website serves as a centralised medium for me to consolidate material I encounter throughout this learning journey. I hope to update my progress here as well!
 
 ## Features
 
