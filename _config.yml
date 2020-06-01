@@ -11,7 +11,7 @@ sidebar: false               # show a sidebar instead of the usual header
 show_excerpts: false         # show article excerpts on the home page
 show_related: true           # show the previous and next links after every post
 show_description: true       # show the site description in the sidebar
-show_title: false            # always keep the site title visible
+show_title: true            # always keep the site title visible
 
 # Styling
 
@@ -27,7 +27,7 @@ navigation:
 external:                    # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:priscilla.ong@u.yale-nus.edu.sg"}
  - {title: Github, icon: github, url: "https://github.com/prisong97"}
- - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/priscilla-ong97"}
+ - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/priscilla-ong97/"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
