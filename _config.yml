@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "My Capstone Journey:)"
+author: "Priscilla Ong"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
 permalink: /:title/
 lang: "en"
@@ -16,7 +16,7 @@ show_title: false            # always keep the site title visible
 
 # Styling
 
-dark_header: false           # always keep the header dark
+dark_header: true           # always keep the header dark
 minimal: false               # use simpler style
 
 # Menu
@@ -26,8 +26,8 @@ navigation:
   - {file: "README.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+ - {title: Mail, icon: envelope, url: "mailto:priscilla.ong@u.yale-nus.edu.sg"}
+ - {title: Github, icon: github, url: "https://github.com/prisong97"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
