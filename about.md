@@ -6,7 +6,7 @@ layout: page
 
 ## A Quick Introduction!
 
-Hi! My name is Priscilla, and I am a rising Mathematical, Computational and Statistical Sciences (MCS) senior at Yale-NUS College. Very soon, I will be embarking on my Capstone project, a year long research module that culminates in a final report. This website serves as a centralised medium for me to gather material and consolidate my learning. 
+Hi! My name is Priscilla, and I am a rising Mathematical, Computational and Statistical Sciences (MCS) senior at Yale-NUS College. Very soon, I will be embarking on my Capstone project, a year long research module that culminates in a final report. This website serves as a centralised medium for me to consolidate my learning. 
 
 ## Some fun facts
 
