@@ -39,6 +39,6 @@ plugins:
  # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
-  clippings: all
+  clippings: pre
   ignore:
     envs: development
