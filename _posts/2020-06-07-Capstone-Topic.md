@@ -15,5 +15,10 @@ After some light reading, some of the material I seek to review are:
 Hopefully, there would be time to apply these methods to a dataset!  
 
 
+*edit:
+
+After chatting with my Prof, we have revised the scope of my project. Exact details to be laid out soon! 
+
+
 
 
