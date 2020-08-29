@@ -7,17 +7,7 @@ In statistical modelling, it is convenient to make the simplifying assumption th
 
 In my Capstone, I will be reviewing and comparing different methods for fitting mixture models. In a mixture model, observations are assumed to arise from one of M (finite or infinite) groups, where each group is modelled by a density typically from a parametric family. This model offers a conceptually flexible way of approximating distributions that cannot be satisfactorily modelled by a standard parametric family, as in the case of representing Singaporeans’ heights. For purposes of modelling, we often assume that each of the M groups is a latent variable, and subsequently seek to learn their distributions by estimating these distributions’ parameters. 
 
-After some light reading, some of the material I seek to review are:
-1. Expectation-Maximisation Algorithm (an iterative process guaranteed to find the local maxima of the sub-populations’ parameters).
-2. Sampling methods (Acceptance-rejection sampling, Importance sampling, Metropolis-Hastings Algorithm, Gibbs Sampling etc.)
-3. Variational Inference (?) 
 
-Hopefully, there would be time to apply these methods to a dataset!  
-
-
-*edit:
-
-After chatting with my Prof, we have revised the scope of my project. Exact details to be laid out soon! 
 
 
 
