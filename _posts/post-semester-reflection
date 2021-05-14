@@ -1,0 +1,14 @@
+---
+title:  "Post-semester Reflections"
+mathjax: true
+layout: post
+---
+
+The past semester was an incredibly wild ride. Everything that could have gone wrong, went terribly wrong. Though the workload was manageable,
+I found the experience emotionally taxing, and I was mentally all over the place, for reasons yet unknown.
+
+Despite this struggle, I am grateful for the learning experiences that came my way! Let me first talk about the highlight of my final semester: Stochastic
+Processes. This module was an elective I took at the Department of Engineering. Contrary to what many of my friends feel, I absolutely loved this module. There were many encounters
+with concepts I had hazy memory of, and it was truly enlightening to enforce some rigour on these fuzzy intuitions. For instance, prior to this course, I knew of Markov Chains only in the
+context of MCMC sampling. I knew that Metropolis-Hastings and Gibbs Sampling fulfilled the detailed balance conditions, but I never fully appreciated its importance in attaining the stationary
+distribution, until this course. TBC
