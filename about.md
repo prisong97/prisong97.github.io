@@ -6,13 +6,13 @@ layout: page
 
 ## A Quick Introduction!
 
-Hi! My name is Priscilla, and I am a rising Mathematical, Computational and Statistical Sciences (MCS) senior at Yale-NUS College. Very soon, I will be embarking on my Capstone project, a year long research module that culminates in a final report. This website shall serve as a centralised medium for me to consolidate my learning over the course of this journey. 
+Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical Sciences (MCS) senior at Yale-NUS College. This website shall serve as a centralised medium for me to consolidate my learning. 
 
 ## Some fun facts
 
- - In 2018, I spent 6 great weeks learning Español in Sevilla. Besides returning with a better grasp of the language, I came back as an experienced Siesta practitioner.
- - Before switching to waterpolo, I was a competitive swimmer (sprinter) for ~10 years. 
- - Organic Chemistry will always have a special place in my heart! 
+ - In 2018, I spent 6 great weeks learning Español in Sevilla. Besides returning with a better grasp of the language, I came back as a budding Siesta practitioner.
+ - I was a competitive swimmer (sprinter) for ~10 years before switching to waterpolo in Junior College.
+ - I love coffee! 
 
 
 
