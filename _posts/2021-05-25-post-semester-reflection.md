@@ -27,7 +27,7 @@ my S/U for this class. I really learnt a lot, including understanding what it tr
 
 Towards the end of the semester, I chanced upon this beautiful article written by Francis Su: https://www.francissu.com/post/the-lesson-of-grace-in-teaching. I related to this article on an incredible level, because it reminded me so much of my experience in this class. I never managed to share this with Prof. Vincent (I realised I had thanked him three times prior and wouldn't want to bother him over an email with non-urgent matters). If anyone ever asked me to relate my experience with this course, I would let this article speak on my behalf. Honestly, I would post this article on NUSmods, but the message might seem a little cryptic. 
 
-I would not have had it another other way. 
+I would not have had it another other way. Thank you for having me, and thank you for your grace. 
 
 
 ## Geometry and the Emergence of Perspective
