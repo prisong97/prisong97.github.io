@@ -14,6 +14,8 @@ Processes.
 
 ## Stochastic Processes <3 
 
+Here's a little story: Up till the week prior to the first week of classes, I had only registered for 15MCs worth of modules. I had cleared all my major requirements and could essentially take anything under the sun for credit. I was extremely interested in taking a course on Stochastic Processes, and many of my friends warned me against taking the ST-coded 3k Stochastic Processes module. "You don't even learn that much and the bell-curve is very steep". I really wanted to take a module worth taking. Afterall, it was my last semester, and I still had 20MCs-worth of S/Us to spare. If anything went wrong, I could just use the S/Us. Perusing the NUSmod brief, I stumbled upon EE5137: Stochastic Processes. Interesting...seemed like the Engineering Department also offered 
+
 This module was an elective I took at the Department of Engineering. Contrary to what many of my friends feel, I absolutely loved this module. There were many encounters
 with concepts I had hazy memory of, and it was truly enlightening to enforce some rigour on these fuzzy intuitions. Prior to this course, I knew of Markov Chains only in the
 context of MCMC sampling. I knew that Metropolis-Hastings (MH) and Gibbs Sampling fulfilled the detailed balance conditions, but I never fully appreciated its importance when trying to determine if it had a stationary
@@ -31,7 +33,8 @@ I would not have had it another other way. Thank you for having me, and thank yo
 
 
 ## Geometry and the Emergence of Perspective
-TBC
+
+This was a really cool module. 
 
 
 
