@@ -10,7 +10,11 @@ I was discharged the day right before the exam, and had an MC that exempted me f
 Though the workload this semester was manageable, I found the experience emotionally taxing, and I was mentally all over the place, for reasons yet unknown. Hopefully I would be able to figure out soon.
 
 Despite this struggle, I am grateful for the learning experiences that came my way! Let me first talk about the highlight of my final semester: Stochastic
-Processes. This module was an elective I took at the Department of Engineering. Contrary to what many of my friends feel, I absolutely loved this module. There were many encounters
+Processes.
+
+## Stochastic Processes <3 
+
+This module was an elective I took at the Department of Engineering. Contrary to what many of my friends feel, I absolutely loved this module. There were many encounters
 with concepts I had hazy memory of, and it was truly enlightening to enforce some rigour on these fuzzy intuitions. Prior to this course, I knew of Markov Chains only in the
 context of MCMC sampling. I knew that Metropolis-Hastings (MH) and Gibbs Sampling fulfilled the detailed balance conditions, but I never fully appreciated its importance when trying to determine if it had a stationary
 distribution. These conditions are a little strong, and are sufficient but not necessary for ensuring a unique stationary distribution exists. Now that I think about it, by having a non-zero probability of remaining in the current state,
@@ -19,6 +23,10 @@ to its stationary distribution (for finite-state markov chains). Around this tim
 eigenvalue played a part in governing this too! I really wished I took this class earlier. 
 
 This class was easily my favourite, in my four years as an undergraduate. It's quite unfortunate that I butchered all the assessments (and effectively this course). Besides Real Analysis, I had not been this invested in a module. I am quite sore that I would have to exercise
-my S/U for this class. Hopefully I would get better at this subject.
+my S/U for this class. I really learnt a lot, including understanding what it truly means for curiosity to kill the cat. But I would not have it another other way. Thank you Prof. Vincent for allowing me to join this class! 
+
+
+
+
 
 
