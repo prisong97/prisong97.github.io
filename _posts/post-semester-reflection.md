@@ -23,7 +23,7 @@ to its stationary distribution (for finite-state markov chains). Around this tim
 eigenvalue played a part in governing this too! I really wished I took this class earlier. 
 
 This class was easily my favourite, in my four years as an undergraduate. It's quite unfortunate that I butchered all the assessments (and effectively this course). Besides Real Analysis, I had not been this invested in a module. I am quite sore that I would have to exercise
-my S/U for this class. I really learnt a lot, including understanding what it truly means for curiosity to kill the cat. But I would not have it another other way. Thank you Prof. Vincent for allowing me to join this class! 
+my S/U for this class. I really learnt a lot, including understanding what it truly means for curiosity to kill the cat. But I would not have had it another other way. Thank you Prof. Vincent for allowing me to join this class! 
 
 
 
