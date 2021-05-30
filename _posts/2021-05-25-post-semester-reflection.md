@@ -25,7 +25,7 @@ to the stationary distribution in question (for finite-state markov chains). Aro
 eigenvalue played a part in governing the aforementioned autocorrelation too! I really wished I took this class earlier. 
 
 This class was easily my favourite. I speak as a final year undergraduate who has taken 8 semesters of modules. It's quite unfortunate that I butchered all the assessments (and effectively this course). Besides Real Analysis, I had not been this invested in a module. Not even Machine Learning, which I also loved. I am quite sore that I would have to exercise
-my S/U for this class. I know I mentioned that I would have no qualms about exercising these S/Us. And honestly, if I were completely clueless or found out that I absolutely hated the module, I would be embracing these S/Us with unbridled enthusiasm. But I do think the course content was not beyond me -- albeit some struggle, I was genuinely interested and was following for the most part the class. My performance was definitely not reflective of my appreciation of the course.  
+my S/U for this class. I know I mentioned that I would have no qualms about exercising these S/Us. And honestly, if I were completely clueless or found out that I absolutely hated the module, I would be embracing these S/Us with unbridled enthusiasm. But I do think the course content was not beyond me -- albeit some struggle, I was genuinely interested and was following for the most part the class. My performance was definitely not reflective of my appreciation for the course.  
 
 I really learnt a lot, both during lectures and office hours. I attended a significant number of office hour sessions, so much so that I ended up befriending two classmates because they had recognised me from the Prof's webcasted sessions. I got to clarify many doubts, and also got to ask many questions that allowed me to bridge the gap in knowledge acquired across classes. I am extremely thankful that the Prof was so open to entertaining my questions and thoughts.
 
@@ -38,7 +38,9 @@ Thank you for having me, and thank you for your grace.
 
 ## Geometry and the Emergence of Perspective
 
-What happens when you violate the 5th axiom of Euclidean Geometry? By allowing parallel lines to appear convergent at a point at infinity, you get to draw really cool things (check out Perspective Drawing)! Turns out, it is precisely this violation that allows us to incorporate depth into the portrayal of objects. With some experimentation and imagination, you might even end up drawing impossible objects. Here's my final assignment to learn more about this: https://ongpriscilla97.medium.com/when-math-and-art-meet-d52222a26b20
+What happens when you violate the 5th axiom of Euclidean Geometry? By allowing parallel lines to appear convergent at a point of infinity, you get to draw really cool things (check out Perspective Drawing)! Turns out, it is precisely this violation that allows us to incorporate depth into the portrayal of objects. With some experimentation and imagination, you might even end up drawing impossible objects. I wrote a little bit about this in my final assignment, which can be found here: https://ongpriscilla97.medium.com/when-math-and-art-meet-d52222a26b20
+
+TBC
 
 
 
