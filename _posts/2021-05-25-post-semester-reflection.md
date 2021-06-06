@@ -29,7 +29,7 @@ my S/U for this class. I know I mentioned that I would have no qualms about exer
 
 I really learnt a lot, both during lectures and office hours. I attended a significant number of office hour sessions, so much so that I ended up befriending two classmates because they had recognised me from the Prof's webcasted sessions. I got to clarify many doubts, and also got to ask many questions that allowed me to bridge the gap in knowledge acquired across classes. I am extremely thankful that the Prof was so open to entertaining my questions and thoughts.
 
-Towards the end of the semester, I chanced upon this beautiful article written by Francis Su: https://www.francissu.com/post/the-lesson-of-grace-in-teaching. I related to this article on an incredibly personal level, because it reminded me so much of my experience in this class. I never managed to share this with Prof. Vincent (I realised I had thanked him three times prior and wouldn't want to bother him over non-urgent matters). If anyone ever asked me to recount my experience with this course, I would let this article speak on my behalf. Honestly, I would post this article on NUSmods, but the message might seem a little cryptic. 
+Towards the end of the semester, I chanced upon this beautiful article written by Francis Su: https://www.francissu.com/post/the-lesson-of-grace-in-teaching. I related to this article on an incredibly personal level, because it reminded me of my experience in this class. 
 
 I would not have had it another other way. Curiosity might have killed the cat in this module, but a cat has 9 lives for a reason. I will be back stronger.
 
