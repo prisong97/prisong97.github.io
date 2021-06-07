@@ -23,7 +23,7 @@ minimal: false               # use simpler style
 navigation:
   - {file: "index.html", icon: home}
   - {file: "about.md", icon: address-card}
-  - {file: "goodreads.html"}
+  - {file: "goodreads.md"}
   - {file: "projects.md"}
 
 external:                    # see http://fontawesome.com/icons
