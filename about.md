@@ -16,10 +16,7 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
  
  ## Some pics 
  
- ![Spain4](https://user-images.githubusercontent.com/39128341/120967853-9e520b00-c79a-11eb-8a39-2011c843afb8.jpg)
+ ![IMG_5203](https://user-images.githubusercontent.com/39128341/120968365-5e3f5800-c79b-11eb-9bf1-8bc27c2e6c2c.JPG)
+![Spain4](https://user-images.githubusercontent.com/39128341/120967853-9e520b00-c79a-11eb-8a39-2011c843afb8.jpg)
 
-
-
- <!--[screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
- ![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png) -->
 
