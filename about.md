@@ -14,9 +14,8 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
  - I was a competitive swimmer (sprinter) for ~10 years, where I initially specialised in Breaststroke and then Butterfly in my later years.  In Junior College, I switched over to WaterPolo. Being left-handed, I usually played Right-wing/driver.
  - I love coffee! I briefly served as a barista post-A-levels and also became certified during my semester abroad in Australia. 
  
- Stay tuned for more.
 
- ## Through my lens
+## Through my lens
  
  - Sometimes, I shoot :) 
 
