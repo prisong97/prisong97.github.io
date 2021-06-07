@@ -11,9 +11,10 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
 ## Some fun facts
 
  - In 2018, I spent 6 great weeks learning Español in Sevilla. Besides returning with a better grasp of the language, I came back as a budding Siesta practitioner.
- - I was a competitive swimmer (sprinter) for ~10 years before switching to waterpolo in Junior College.
- - I love coffee! 
+ - I was a competitive swimmer (sprinter) for ~10 years, where I initially specialised in Breaststroke and then Butterfly in my later years.  In Junior College, I switched over to WaterPolo. Being left-handed, I usually played Right-wing/driver.
+ - I love coffee! I briefly served as a barista post-A-levels and also became certified during my semester abroad in Australia. 
  
+ Stay tuned for more.
 
  ## Through my lens
  
