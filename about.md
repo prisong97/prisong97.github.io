@@ -17,7 +17,10 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
  
  ## Through my lens
  
- - Sometimes I shoot :) 
+ - Sometimes, I shoot :) 
+
+
+![HK_film_1](https://user-images.githubusercontent.com/39128341/120971966-d3ad2780-c79f-11eb-9118-34362f83049a.jpg)
 
 
 
