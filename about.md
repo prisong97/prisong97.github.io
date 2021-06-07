@@ -14,8 +14,6 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
  - I was a competitive swimmer (sprinter) for ~10 years before switching to waterpolo in Junior College.
  - I love coffee! 
  
- ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/39128341/120967117-b37a6a00-c799-11eb-9c8e-c1b36ab36cff.png)
-
 
 
  <!--[screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
