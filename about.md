@@ -16,6 +16,8 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
  
  
  ## Through my lens
+ 
+ - Sometimes I shoot :) 
 
 
 
