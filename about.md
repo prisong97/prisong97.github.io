@@ -21,9 +21,9 @@ Hi! My name is Priscilla, and I am a Mathematical, Computational and Statistical
  - Sometimes, I shoot :) 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/39128341/120971966-d3ad2780-c79f-11eb-9118-34362f83049a.jpg" width="200" />
-  <img src="https://user-images.githubusercontent.com/39128341/120972283-2ab2fc80-c7a0-11eb-8d99-9880259c2d4b.jpg" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/39128341/120972550-6d74d480-c7a0-11eb-8033-094af16c3a61.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/39128341/120971966-d3ad2780-c79f-11eb-9118-34362f83049a.jpg" width="300" />
+  <img src="https://user-images.githubusercontent.com/39128341/120972283-2ab2fc80-c7a0-11eb-8d99-9880259c2d4b.jpg" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/39128341/120972550-6d74d480-c7a0-11eb-8033-094af16c3a61.jpg" width="300" />
 </p>
 
 <!-- ![HK_film_1](https://user-images.githubusercontent.com/39128341/120971966-d3ad2780-c79f-11eb-9118-34362f83049a.jpg)
