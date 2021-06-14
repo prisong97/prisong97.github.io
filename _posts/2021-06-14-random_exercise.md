@@ -74,8 +74,8 @@ $$\begin{align*}
 P(X_i \text{ plays with } X_j) &= \frac{1}{k-1} \times \sum_{i=0}^{d-1} \frac{1}{2^i} \\
 &= \frac{1}{k-1} \times \frac{1-(\frac{1}{2})^d}{\frac{1}{2}} \\
 &= \frac{2}{k-1} \times \bigg(1-\big(\frac{1}{2}\big)^d \bigg) \\
-&= \frac{2}{k-1} \times \bigg(\frac{2^d - 1}{2^d}) \\
-&= \frac{2}{2^d - 1} \times \bigg(\frac{2^d - 1}{2^d}) \\
+&= \frac{2}{k-1} \times \bigg(\frac{2^d - 1}{2^d}\bigg) \\
+&= \frac{2}{2^d - 1} \times \bigg(\frac{2^d - 1}{2^d}\bigg) \\
 &= \frac{2}{2^d} \\
 &= \frac{1}{2^{d-1}}.
 \end{align*} $$
