@@ -68,16 +68,13 @@ $$
 
 ### Generalising this solution
 
-In general, we find that the common (fractional) factor to all constituent terms (corresponding to each round) is $\frac{1}{k-1}$, where k represents the total number of teams. In total, there are $d = \log_2 k$ rounds. Hence, the generalised formula for the probability is
+In general, we find that the common (fractional) factor to all constituent terms (corresponding to each round) is $\frac{1}{2^k - 1}$, where $2^k$ represents the total number of teams. In total, there are $k$ rounds. Hence, the generalised formula for the probability is
 
 $$\begin{align*}
-P(X_i \text{ plays with } X_j) &= \frac{1}{k-1} \times \sum_{i=0}^{d-1} \frac{1}{2^i} \\
-&= \frac{1}{k-1} \times \frac{1-(\frac{1}{2})^d}{\frac{1}{2}} \\
-&= \frac{2}{k-1} \times \bigg(1-\big(\frac{1}{2}\big)^d \bigg) \\
-&= \frac{2}{k-1} \times \bigg(\frac{2^d - 1}{2^d}\bigg) \\
-&= \frac{2}{2^d - 1} \times \bigg(\frac{2^d - 1}{2^d}\bigg) \\
-&= \frac{2}{2^d} \\
-&= \frac{1}{2^{d-1}}.
+P(X_i \text{ plays with } X_j) &= \frac{1}{2^k - 1} \times \sum_{i=0}^{k-1} \frac{1}{2^i} \\
+&= \frac{1}{2^k-1} \times \frac{1-(\frac{1}{2})^k}{\frac{1}{2}} \\
+&= \frac{2}{2^k-1} \times \frac{2^k - 1}{2^k} \\
+&= \frac{1}{2^{k-1}}.
 \end{align*} $$
 
 
