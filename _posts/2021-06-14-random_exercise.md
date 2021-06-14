@@ -16,7 +16,7 @@ arbitrary positive integer.
 
 ### Solution
 
-Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \left 1,2,\ldots, 16 \right$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in \left 1,2,\ldots, 16 \right$, $i \neq j$. 
+Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \{ 1,2,\ldots, 16 \}$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in \{ 1,2,\ldots, 16 \}$, $i \neq j$. 
 
 We shall consider this in cases.
 
