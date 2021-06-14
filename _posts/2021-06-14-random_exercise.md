@@ -66,4 +66,14 @@ P(X_i \text{ plays with } X_j \mid X_i) &= \frac{1}{15} + \bigg( \frac{1}{2} \ti
 \end{align*}
 $$
 
+### Generalising this solution
+
+In general, we find that the common (fractional) factor to all constituent terms (corresponding to each round) is $\frac{1}{d-1}$, where d represents the total number of players. In total, there are $k = \log_2 d$ rounds. Hence, the generalised formula for the probability is
+
+$$\begin{align*}
+P(X_i \text{ plays with } X_j) &= \frac{1}{d-1} \times \sum_{i=0}{k} \frac{1}{2^i} \\
+&= 
+
+\end{align*} $$
+
 
