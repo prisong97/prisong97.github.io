@@ -61,7 +61,7 @@ By a similar argument, we have $P(X_i \text{ plays with } X_j \text{ in fourth r
 By the law of total probability, we can sum these values to get the desired result, i.e.
 
 $$\begin{align*}
-P(X_i \text{ plays with } X_j) &= \frac{1}{15} + (\frac{1}{2} \times \frac{1}{15}) + (\frac{1}{4} \times \frac{1}{15}) + (\frac{1}{8} \times \frac{1}{15})  \\
+P(X_i \text{ plays with } X_j) &= \frac{1}{15} + \bigg( \frac{1}{2} \times \frac{1}{15} \bigg) + \bigg( \frac{1}{4} \times \frac{1}{15} \bigg) + \bigg( \frac{1}{8} \times \frac{1}{15} \bigg)  \\
 &= \frac{1}{8}.
 $$\end{align*}
 
