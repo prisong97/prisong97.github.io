@@ -63,6 +63,7 @@ By the law of total probability, we can sum these values to get the desired resu
 $$\begin{align*}
 P(X_i \text{ plays with } X_j \mid X_i) &= \frac{1}{15} + \bigg( \frac{1}{2} \times \frac{1}{15} \bigg) + \bigg( \frac{1}{4} \times \frac{1}{15} \bigg) + \bigg( \frac{1}{8} \times \frac{1}{15} \bigg)  \\
 &= \frac{1}{8}.
-$$\end{align*}
+\end{align*}
+$$
 
 
