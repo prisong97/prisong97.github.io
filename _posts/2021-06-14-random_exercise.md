@@ -18,7 +18,7 @@ arbitrary positive integer.
 
 Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \\{ 1,2,\ldots, 16 \\}$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in \\{ 1,2,\ldots, 16 \\}$, $i \neq j$. 
 
-We shall consider this in cases.
+In total, this tournament has 4 rounds (round robin, quarter-finals, semi-finals, and finals). This can be illustrated using a binary tree as well. Let us walk through the working by round.
 
 ##### Case 1:
 $P(X_i \text{ plays with } X_j \text{ in first round } \mid X_i) = \frac{1}{15}$.
