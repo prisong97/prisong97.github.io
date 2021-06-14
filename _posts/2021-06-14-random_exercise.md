@@ -16,7 +16,7 @@ arbitrary positive integer.
 
 ### Solution
 
-Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \{ 1,2,\ldots, 16 \}$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in \{ 1,2,\ldots, 16 \}$, $i \neq j$. 
+Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \\{ 1,2,\ldots, 16 \\}$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in \\{ 1,2,\ldots, 16 \\}$, $i \neq j$. 
 
 We shall consider this in cases.
 
@@ -47,7 +47,7 @@ $P(X_i \text{ plays with } X_j \text{ in third round } \mid X_i) = \frac{1}{4} \
 $$
 \begin{align*}
 P(X_i \text{ plays with } X_j \text{ in third round } \mid X_i) &= P(X_i \text{ wins first and second rounds })P(X_j \text{ wins first and second rounds })P(X_j \text{ in adjacent 'tree' }) \\
-P(X_i \text{ wins first round })P(X_i \text{ wins second round })P(X_j \text{ wins first round })P(X_j \text{ wins second round })P(X_j \text{ in adjacent 'tree' }) \\
+&= P(X_i \text{ wins first round })P(X_i \text{ wins second round })P(X_j \text{ wins first round })P(X_j \text{ wins second round })P(X_j \text{ in adjacent 'tree' }) \\
 &= \frac{1}{2}^2 \times \frac{1}{2}^2 \times \frac{4}{15} \\
 &= \frac{1}{4} \times \frac{1}{15}.
 \end{align*}
