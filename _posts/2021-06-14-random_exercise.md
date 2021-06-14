@@ -71,9 +71,9 @@ $$
 In general, we find that the common (fractional) factor to all constituent terms (corresponding to each round) is $\frac{1}{k-1}$, where k represents the total number of teams. In total, there are $d = \log_2 k$ rounds. Hence, the generalised formula for the probability is
 
 $$\begin{align*}
-P(X_i \text{ plays with } X_j) &= \frac{1}{k-1} \times \sum_{i=0}^{k-1} \frac{1}{2^i} \\
-&= \frac{1}{k-1} \times \frac{1-(\frac{1}{2})^k}{\frac{1}{2}} \\
-&= \frac{1}{k-1} \times 2(1-(\frac{1}{2})^k).
+P(X_i \text{ plays with } X_j) &= \frac{1}{k-1} \times \sum_{i=0}^{d-1} \frac{1}{2^i} \\
+&= \frac{1}{k-1} \times \frac{1-(\frac{1}{2})^d}{\frac{1}{2}} \\
+&= \frac{1}{k-1} \times 2(1-(\frac{1}{2})^d).
 
 \end{align*} $$
 
