@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 ---
 
-*Taken from Problem 297 of Five Hundred Mathematical Challenges (Mathematical Association of America, 1996).* This was an optional problem I encountered during one of my courses taken last semester.
+*Taken from Problem 297 of Five Hundred Mathematical Challenges (Mathematical Association of America, 1996).* This was an optional problem I encountered during one of the courses I took last semester.
 
 
 In the knockout phase of a football tournament, there are 16 teams of equal skill
