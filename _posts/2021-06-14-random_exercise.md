@@ -48,7 +48,7 @@ $$
 \begin{align*}
 P(X_i \text{ plays with } X_j \text{ in third round } \mid X_i) &= P(X_i \text{ wins first and second rounds })P(X_j \text{ wins first and second rounds })P(X_j \text{ in adjacent 'tree' }) \\
 &= P(X_i \text{ wins first round })P(X_i \text{ wins second round })P(X_j \text{ wins first round })P(X_j \text{ wins second round })P(X_j \text{ in adjacent 'tree' }) \\
-&= \bigg{\frac{1}{2}\bigg)^2 \times \bigg(\frac{1}{2}\bigg)^2 \times \frac{4}{15} \\
+&= \bigg(\frac{1}{2}\bigg)^2 \times \bigg(\frac{1}{2}\bigg)^2 \times \frac{4}{15} \\
 &= \frac{1}{4} \times \frac{1}{15}.
 \end{align*}
 $$
