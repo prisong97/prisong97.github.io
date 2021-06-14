@@ -49,6 +49,9 @@ P(X_i \text{ wins first round })P(X_i \text{ wins second round })P(X_j \text{ wi
 &= \frac{1}{4} \times \frac{1}{15}.
 $$
 
+##### Case 4:
+
+By extension, we have $P(X_i \text{ plays with } X_j \text{ in fourth round } \mid X_i) = \frac{1}{8} \times \frac{1}{15}$.
 
 
 
