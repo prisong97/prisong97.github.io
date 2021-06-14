@@ -26,3 +26,16 @@ $P(X_i \text{ plays with } X_j \text{ in first round } \mid X_i) = \frac{1}{15}$
 - Why? Given that $X_i$ is fixed, in order for $X_j$ to play with $X_i$, $X_j$ and $X_i$ must share the same parent node. Hence, there is only 1 such arrangement (out of the possible 15) that would give us the desired result.
 
 
+##### Case 2:
+$P(X_i \text{ plays with } X_j \text{ in second round } \mid X_i) = \frac{1}{2} \times \frac{1}{15}$.
+
+- Consider the following derivation:
+
+\begin{align*}
+P(X_i \text{ plays with } X_j \text{ in second round } \mid X_i) &= P(X_i \text{ wins first round })P(X_j \text{ wins first round })P(X_j \text{ in adjacent 'tree' }) \\
+&= \frac{1}{2} \times \frac{1}{2} \times \frac{2}{15} \\
+&= \frac{1}{2} \times \frac{1}{15}.
+\end{align*}
+
+
+
