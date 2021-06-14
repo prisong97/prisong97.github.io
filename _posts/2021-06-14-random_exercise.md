@@ -18,7 +18,7 @@ arbitrary positive integer.
 
 Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \{1,2,\ldots, 16\}$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in {1,2,\ldots, 16}$, $i \neq j$. 
 
-We shall consider this by cases.
+We shall consider this in cases.
 
 ##### Case 1:
 $P(X_i \text{ plays with } X_j \text{ in first round } \mid X_i) = \frac{1}{15}$.
