@@ -23,7 +23,7 @@ $$
 The aforementioned is equivalent to the statement
 
 $$
-Pr(\sum_{i=1}^K \mid \frac{\mid N_i \mid}{n} - \mu(C_i) \mid \geq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}) \leq \delta.
+Pr(\sum_{i=1}^K \left| \frac{\mid N_i \mid}{n} - \mu(C_i) \right| \geq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}) \leq \delta.
 $$
 
 We want to find an expression in terms of $\lambda$ such that 
@@ -38,7 +38,7 @@ $$
 \ln{\bigg[2^K \exp{(\frac{-n\lambda^2}{2})} \bigg]} &= \ln{\delta} \\
 K\ln{2} - \frac{n\lambda^2}{2} &= \ln{\delta} \\
 2K\ln{2} + 2\ln{\delta^{-1}} &= n\lambda^2 \\
-\lambda &= \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}},
+\sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}} &= \lambda,
 $$
 
 as desired.
