@@ -38,7 +38,10 @@ $$
 \ln{\bigg[2^K \exp{(\frac{-n\lambda^2}{2})} \bigg]} &= \ln{\delta} \\
 K\ln{2} - \frac{n\lambda^2}{2} &= \ln{\delta} \\
 2K\ln{2} + 2\ln{\delta^{-1}} &= n\lambda^2 \\
+\sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}} &= \lambda,
 $$
+
+
 as desired.
 
 
