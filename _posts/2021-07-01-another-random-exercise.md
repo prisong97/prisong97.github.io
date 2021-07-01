@@ -29,7 +29,7 @@ $$
 We want to find an expression in terms of $\lambda$ such that 
 
 $$
-2^K \exp{\frac{-n\lambda^2}{2} = \delta.
+2^K \exp{\frac{-n\lambda^2}{2}} = \delta.
 $$
 
 Thus, massaging the expression, we get
