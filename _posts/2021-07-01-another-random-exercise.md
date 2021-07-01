@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 ---
 
-*Taken from Robustness and Generalization, by Huan Xu and Shie Mannor*. This is a simple exercise to convince myself of one of the statements outlined in Theorem 3's proof:
+*Taken from Robustness and Generalization, by Huan Xu and Shie Mannor*. This is a simple exercise to check that I'm understanding the statement correctly:
 
 The following holds by the Breteganolle-Huber-Carol inequality (cf Proposition A6.6 of van der Vaart and Wellner,
 2000):
@@ -17,7 +17,18 @@ Hence, the following holds with probability at least $1 − \delta$,
 
 $$\sum_{i=1}^K \mid \frac{\mid N_i \mid}{n} - \mu(C_i) \mid \leq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}.
 $$
+
 ### Solution
+
+The aforementioned is equivalent to the statement
+
+$$
+Pr(\sum_{i=1}^K \mid \frac{\mid N_i \mid}{n} - \mu(C_i) \mid \geq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}) \leq \delta.
+$$
+
+
+
+
 
 Let us first consider the given example in which there are 16 teams. Let $X_i$ denote the $i^{th}$ team, where $i \in \\{ 1,2,\ldots, 16 \\}$. We are interested in finding $P(X_i \text{ plays with } X_j)$ for some $i, j \in \\{ 1,2,\ldots, 16 \\}$, $i \neq j$. 
 
