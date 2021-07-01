@@ -10,12 +10,12 @@ The following holds by the Breteganolle-Huber-Carol inequality (cf Proposition A
 2000):
 
 $$
-Pr(\sum_{i=1}^K \left| \frac{\mid N_i \mid}{n} - \mu(C_i) \right| \geq \lambda) \leq 2^K \exp{\frac{-n\lambda^2}{2}}.
+Pr(\sum_{i=1}^K \left| \frac{\mid N_i \mid}{n} - \mu(C_i) \right| \geq \lambda) \leq 2^K \exp{(\frac{-n\lambda^2}{2})}.
 $$
 
 Hence, the following holds with probability at least $1 − \delta$,
 
-$$\sum_{i=1}^K \mid \frac{\mid N_i \mid}{n} - \mu(C_i) \mid \leq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}.
+$$\sum_{i=1}^K \left| \frac{\mid N_i \mid}{n} - \mu(C_i) \right| \leq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}.
 $$
 
 ### Solution
@@ -24,6 +24,18 @@ The aforementioned is equivalent to the statement
 
 $$
 Pr(\sum_{i=1}^K \mid \frac{\mid N_i \mid}{n} - \mu(C_i) \mid \geq \sqrt{\frac{2K\ln{2} + 2\ln{\frac{1}{\delta}}}{n}}) \leq \delta.
+$$
+
+We want to find an expression in terms of $\lambda$ such that 
+
+$$
+2^K \exp{\frac{-n\lambda^2}{2} = \delta.
+$$
+
+
+
+$$
+
 $$
 
 
