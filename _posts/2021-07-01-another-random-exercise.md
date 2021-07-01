@@ -10,7 +10,7 @@ The following holds by the Breteganolle-Huber-Carol inequality (cf Proposition A
 2000):
 
 $$
-Pr(\sum_{i=1}^K \mid \frac{\mid N_i \mid}{n} - \mu(C_i) \mid \geq \lambda) \leq 2^K \exp{\frac{-n\lambda^2}{2}}.
+Pr(\sum_{i=1}^K \left| \frac{\mid N_i \mid}{n} - \mu(C_i) \right| \geq \lambda) \leq 2^K \exp{\frac{-n\lambda^2}{2}}.
 $$
 
 Hence, the following holds with probability at least $1 − \delta$,
