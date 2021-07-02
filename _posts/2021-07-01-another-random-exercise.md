@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 ---
 
-*Taken from Robustness and Generalization, by Huan Xu and Shie Mannor*. This is a simple exercise to check that I'm understanding the statement correctly:
+*Taken from Robustness and Generalization, by Huan Xu and Shie Mannor*. This is a simple exercise to check that I'm understanding the given statement correctly:
 
 The following holds by the Breteganolle-Huber-Carol inequality (cf Proposition A6.6 of van der Vaart and Wellner,
 2000):
