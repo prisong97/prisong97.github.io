@@ -14,7 +14,7 @@ A fun attempt:
 
 ## Solution
 
-To make this proof, we make use of the Fisher-Neyman Factorisation Theorem, i.e. Given a likelihood function $f(X \mid \theta)$, $T$ is a sufficient statistic iff there exist non-negative functions $h$ and $g$ such that the likelihood can be factorised in the following manner:
+To make this proof, we make use of the Fisher-Neyman Factorisation Theorem, i.e. Given a likelihood function $f(X \mid \theta)$, $T$ is a sufficient statistic for $\theta$ iff there exist non-negative functions $h$ and $g$ such that the likelihood can be factorised in the following manner:
 
 
 $$
@@ -25,13 +25,14 @@ f(X \mid \theta) &= f(X, T \mid \theta) \\
 \end{align*}
 $$
 
+For ease of notation, let us denote the local sufficient statistic of $\theta$ (about $X_1$) as $T_1$, and that of $\theta$ (about $X_2$) as $T_2$. 
 
 $$
 \begin{align*}
 f(X_1, X_2 \mid \theta) &= f(X_1 \mid \theta) \times f(X_2 \mid \theta) \\
-&= f(X_1, T(X_1) \mid \theta) \times f(X_2, T(X_2)  \mid \theta) \\
-&= \bigg(f(X_1 \mid T(X_1)) h[T(X_1) \mid \theta] \bigg) \times \bigg(f(X_2 \mid T(X_2)) h[T(X_2) \mid \theta] \bigg) \\
-&= \bigg(f(X_1 \mid T(X_1), T(X_2) h[T(X_1) \mid \theta] \bigg) \times \bigg(f(X_2 \mid T(X_1), T(X_2)) h[T(X_2) \mid \theta] \bigg) \\
-&= \bigg(f(X_1 \mid T(X_1), T(X_2) \times (f(X_2 \mid T(X_1), T(X_2)) \bigg) p[T(X_1), T(X_2) \mid \theta] \bigg). 
+&= f(X_1, T_1 \mid \theta) \times f(X_2, T_2  \mid \theta) \\
+&= \bigg(f(X_1 \mid T_2) h[T_2 \mid \theta] \bigg) \times \bigg(f(X_2 \mid T_2) h[T_2 \mid \theta] \bigg) \\
+&= \bigg(f\big(X_1 \mid T_1, T_2\big) h[T_1 \mid \theta] \bigg) \times \bigg(f\big(X_2 \mid T_1, T_2\big) h[T_2 \mid \theta] \bigg) \\
+&= \bigg(f\big(X_1 \mid T_1, T_2\big) \times \big(f(X_2 \mid T_1, T_2\big) \bigg) p[T_1, T_2 \mid \theta] \bigg). 
 \end{align*}
 $$
