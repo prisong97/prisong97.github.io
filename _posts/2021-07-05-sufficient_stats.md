@@ -25,16 +25,16 @@ f(X \mid \theta) &= f(X, T \mid \theta) \\
 \end{align*}
 $$
 
-For ease of notation, let us denote the local sufficient statistic of $\theta$ (about $X_1$) as $T_1$, and that of $\theta$ (about $X_2$) as $T_2$. 
+To avoid notational clutter, let us denote the local sufficient statistic of $\theta$ (about $X_1$) as $T_1$, and that of $\theta$ (about $X_2$) as $T_2$. Assuming $X_1$ and $X_2$ are identically distributed (for ease of notation), we have
 
 $$
 \begin{align}
-f(X_1, X_2 \mid \theta) &= f(X_1 \mid \theta) \times f(X_2 \mid \theta) &\text{ (by conditional independence) } \\
-&= f(X_1, T_1 \mid \theta) \times f(X_2, T_2  \mid \theta) \\
-&= \bigg(f(X_1 \mid T_2) h[T_2 \mid \theta] \bigg) \times \bigg(f(X_2 \mid T_2) h[T_2 \mid \theta] \bigg) &\text{ (by FN factorisation) } \\
+f\big(X_1, X_2 \mid \theta\big) &= f\big(X_1 \mid \theta\big) \times f\big(X_2 \mid \theta\big) &\text{ (by conditional independence) } \\
+&= f\big(X_1, T_1 \mid \theta\big) \times f\big(X_2, T_2  \mid \theta\big) \\
+&= \bigg(f\big(X_1 \mid T_2\big) h[T_2 \mid \theta] \bigg) \times \bigg(f\big(X_2 \mid T_2\big) h[T_2 \mid \theta] \bigg) &\text{ (by FN factorisation) } \\
 &= \bigg(f\big(X_1 \mid T_1, T_2\big) h[T_1 \mid \theta] \bigg) \times \bigg(f\big(X_2 \mid T_1, T_2\big) h[T_2 \mid \theta] \bigg) \\
 &= \bigg(f\big(X_1 \mid T_1, T_2\big) \times \big(f(X_2 \mid T_1, T_2\big) \bigg) p[T_1, T_2 \mid \theta] \bigg) \\
-&= \bigg(f\big(X_1, X_2 \mid T_1, T_2\big) \times p[T_1, T_2 \mid \theta] \bigg),
+&= l\big(X_1, X_2 \mid T_1, T_2\big) \times p[T_1, T_2 \mid \theta] ,
 \end{align}
 $$
 as desired. Note that for (3), we made use of the fact that sufficient statistics are not unique: if $T_1$ is sufficient for $\theta$, then $T_1, T_2$ are jointly sufficient for $\theta$. 
