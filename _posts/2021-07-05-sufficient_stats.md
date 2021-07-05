@@ -25,7 +25,7 @@ f(X \mid \theta) &= f(X, T \mid \theta) \\
 \end{align*}
 $$
 
-To avoid notational clutter, let us denote the local sufficient statistic of $\theta$ (about $X_1$) as $T_1$, and that of $\theta$ (about $X_2$) as $T_2$. Assuming $X_1$ and $X_2$ are identically distributed (for ease of notation), we have
+To avoid notational clutter, let us denote the local sufficient statistic of $\theta$ (about $X_1$) as $T_1$, and that of $\theta$ (about $X_2$) as $T_2$. Now, we have
 
 $$
 \begin{align}
