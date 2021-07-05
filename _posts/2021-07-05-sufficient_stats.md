@@ -39,3 +39,7 @@ q\big(X_1, X_2 \mid \theta\big) &= f\big(X_1 \mid \theta\big) \times f\big(X_2 \
 $$
 as desired. Note that for (3), we made use of the fact that sufficient statistics are not unique: if $T_1$ is sufficient for $\theta$, then $T_1, T_2$ are jointly sufficient for $\theta$. 
 
+
+Assuming conditional independence, the converse holds true. The proof to this can be found in the paper. 
+
+
