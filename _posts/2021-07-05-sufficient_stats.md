@@ -32,7 +32,6 @@ $$
 q\big(X_1, X_2 \mid \theta\big) &= f\big(X_1 \mid \theta\big) \times f\big(X_2 \mid \theta\big) &\text{ (by conditional independence) } \\
 &= f\big(X_1, T_1 \mid \theta\big) \times f\big(X_2, T_2  \mid \theta\big) \\
 &= \bigg(f\big(X_1 \mid T_1\big) h[T_1 \mid \theta] \bigg) \times \bigg(f\big(X_2 \mid T_2\big) h[T_2 \mid \theta] \bigg) &\text{ (by FN factorisation) } \\
-&= \bigg(f\big(X_1 \mid T_1, T_2\big) h[T_1 \mid \theta] \bigg) \times \bigg(f\big(X_2 \mid T_1, T_2\big) h[T_2 \mid \theta] \bigg) \\
 &= \bigg(f\big(X_1 \mid T_1, T_2\big) \times \big(f(X_2 \mid T_1, T_2\big) \bigg) p[T_1, T_2 \mid \theta] \\
 &= l\big(X_1, X_2 \mid T_1, T_2\big) \times p[T_1, T_2 \mid \theta] ,
 \end{align}
