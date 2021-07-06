@@ -29,7 +29,7 @@ Nothing too important here; just me reminscing the past!
   <img src="https://user-images.githubusercontent.com/39128341/120972550-6d74d480-c7a0-11eb-8033-094af16c3a61.jpg" width="230" />
 </p>
 
-- In Australia, I volunteered to be part of the team that photographed participants making it across the finish line, for the event [Inward Bound] (https://anuinwardbound.com/). Being part of this event was one of the highlights of my short stint in Australia.
+- In Australia, I volunteered to be part of the team that photographed participants making it across the finish line, for the event [Inward Bound](https://anuinwardbound.com/). Being part of this event was one of the highlights of my short stint in Australia.
 
 
 
