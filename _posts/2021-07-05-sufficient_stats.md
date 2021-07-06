@@ -45,8 +45,8 @@ Assuming conditional independence, the converse holds true. The proof to this ca
 
 While the paper makes use of properties of markov chains to illustrate this, we shall do this using the definition of sufficiency:
 
-Without loss of generality, let us assume that a (local) sufficient statistic of $\theta$ (w.r.t. $X_1$) exists, and denote this statistic by $S$. For contradiction, further assume that there does not exist a function $u$ such that $T_1 = u(S)$, but there exists a function $k$ such that $k(S) = (T_1, T_2)$.
+Without loss of generality, let us assume that a (local) sufficient statistic of $\theta$ (w.r.t. $X_1$) exists, and denote this statistic by $S$. For contradiction, further assume that there does not exist a function $u$ such that $S = u(T_1)$, but there exists a function $k$ such that $S = k(T_1, T_2)$.
 
-By the definition of local sufficiency, $S$ is defined in terms of $X_1$
+By the definition of local sufficiency, $S$ is defined in terms of $X_1$, and is hence independent of $X_2$. This means 
 
 
