@@ -1,5 +1,5 @@
 ---
-title:  "Another random exercise"
+title:  "An exercise on Sufficiency"
 mathjax: true
 layout: post
 ---
@@ -43,11 +43,11 @@ Assuming conditional independence, the converse holds true. The proof to this ca
 
 ### A proof sketch:
 
-While the paper makes use of properties of markov chains to illustrate this, we shall do this using the definition of sufficiency:
+While the paper makes use of properties of markov chains to illustrate this, we shall do this using the definition of (minimal) sufficiency:
 
 Let $T_1$ and $T_2$ be functions of $X_1$ and $X_2$ respectively.
 
-Without loss of generality, let us assume that a (local) sufficient statistic of $\theta$ (w.r.t. $X_1$) exists, and denote this statistic by $S$. For contradiction, further assume that there does not exist a function $u$ such that $S = u(T_1)$, but there exists a function $k$ such that $S = k(T_1, T_2)$. We know the latter condition holds true since $(T_1, T_2)$ are globally sufficient for $\theta$.
+Without loss of generality, let us assume that a (local) sufficient statistic of $\theta$ (w.r.t. $X_1$) exists, and denote this statistic by $S$. Under mild conditions, we can assume that $S$ is minimally sufficient. For contradiction, further assume that there does not exist a function $u$ such that $S = u(T_1)$, but there exists a function $k$ such that $S = k(T_1, T_2)$. We know the latter condition holds true since $(T_1, T_2)$ are globally sufficient for $\theta$.
 
 By the definition of local sufficiency, $S$ is defined in terms of $X_1$, and is hence independent of $X_2$, given $\theta$. This means tha we can define a new function $h$ such that $h(T_1) = k(T_1, T_2) = S$. However, this contradicts our initial assumption that no such function can exist (coined as $u$). 
 
