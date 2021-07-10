@@ -10,7 +10,7 @@ Let X be a non-negative integer-valued random variable.
 
 (a) Prove that $Pr(X \neq 0) \leq \mathbb{E}(X)$.
 
-## Solution
+### Solution
 
 Two approaches:
 
@@ -36,7 +36,20 @@ With this fact, we have
 $$
 \begin{align*}
 P(X \neq 0) &= \sum_{x=1}^\infty p_(x) \\
-\mathbb{E}(X) - \bigg(F^c(0) + \sum_{x=2}^\infty F^c(x)\bigg) \\
-\leq \mathbb{E}(X).
+&= \mathbb{E}(X) - \bigg(F^c(0) + \sum_{x=2}^\infty F^c(x)\bigg) \\
+&\leq \mathbb{E}(X).
 \end{align*}
+$$
+
+b) Prove that $Pr(X=0) \leq \frac{Var(X)}{\mathbb{E}(X^2)}$.
+
+### Solution
+
+$$
+\begin{align}
+P(X=0) & P(X-\mathbb{E}(X) = -\mathbb{E}(X)) \\
+&\leq P\big( (E-\mathbb{E}(X))^2 = (\mathbb{E}(X))^2 \big) \\
+&\leq P\big( (E-\mathbb{E}(X))^2 \geq (\mathbb{E}(X))^2 \big) \\
+&\leq \frac{\mathbb{E}\big[(X- \mathbb{E}(X)\big]^2}{\big[\mathbb{E})(X)\big]}^2.
+\end{align}
 $$
