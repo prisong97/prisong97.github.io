@@ -41,17 +41,3 @@ P(X \neq 0) &= \sum_{x=1}^\infty p_(x) \\
 \end{align*}
 $$
 
-b) Prove that $Pr(X=0) \leq \frac{Var(X)}{\mathbb{E}(X^2)}$.
-
-### Solution
-
-$$
-\begin{align}
-P(X=0) &= P(X-\mathbb{E}(X) = -\mathbb{E}(X)) \\
-&\leq P\big( (X-\mathbb{E}(X))^2 = (\mathbb{E}(X))^2 \big) \\
-&\leq P\big( (X-\mathbb{E}(X))^2 \geq (\mathbb{E}(X))^2 \big) \\
-&\leq \frac{\mathbb{E}\big[(X- \mathbb{E}(X)\big]^2}{\big[\mathbb{E}(X)\big]^2}.
-\end{align}
-$$
-
-Notice that $\mathbb{E}(X^2) \geq \big[\mathbb{E}(X)\big]^2$, so 
