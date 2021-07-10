@@ -21,7 +21,7 @@ Notice that
 $$
 \begin{align*}
 P(X \neq 0) &= P(X \geq 1) \\
-&= \frac{\mathbb{E}(X)}{1} \\
+&\leq \frac{\mathbb{E}(X)}{1} \\
 &= \mathbb{E}(X),
 \end{align*}
 $$
