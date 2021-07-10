@@ -7,6 +7,7 @@ layout: post
 *Taken from COMS 4995-1 S20 Homework 0, Columbia University*. 
 
 Let X be a non-negative integer-valued random variable.
+
 (a) Prove that $Pr(X \neq 0) \leq \mathbb{E}(X)$.
 
 ## Solution
@@ -24,6 +25,7 @@ P(X \neq 0) &= P(X \geq 1) \\
 &= \mathbb{E}(X),
 \end{align*}
 $$
+
 as desired. 
 
 
