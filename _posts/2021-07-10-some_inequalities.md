@@ -33,4 +33,8 @@ With this fact, we have
 
 $$
 \begin{align*}
+P(X \neq 0) &= \sum_{x=1}^\infty p_(x) \\
+\mathbb{E}(X) - \bigg(F^c(0) + \sum_{x=2}^\infty F^c(x)\bigg) \\
+\leq \mathbb{E}(X).
+\end{align*}
 $$
